@@ -1,0 +1,34 @@
+{
+	"extName": {
+		"message": "Gfire WebGame Detection Plugin",
+		"description": "Extension name"
+	},
+	"extDesc": {
+		"message": "Detects the games you play in Chrome for Xfire and Gfire",
+		"description": "Description of the extension"
+	},
+	"PluginDisabled_app": {
+		"message": "Plugin disabled",
+		"description": "App status: Plugin disabled"
+	},
+	"None_app": {
+		"message": "None",
+		"description": "App status: none running"
+	},
+	"NotLoggedIn_acc": {
+		"message": "Not logged in",
+		"description": "Account status: Not logged in"
+	}, 
+	"NotPlaying_game": {
+		"message": "No game is running",
+		"description": "Game status: No game running"
+	}, 
+	"EnableDetection_toggle": {
+		"message": "Enable detection",
+		"description": "Detection toggle"
+	},
+	"DisableDetection_toggle": {
+		"message": "Disable detection",
+		"description": "Detection toggle"
+	}
+}
